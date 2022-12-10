@@ -1,0 +1,32 @@
+
+.product img{
+    width: 50%;
+}
+
+
+/* Womens Wear */
+.shop{
+    margin: 30px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(232, 232, 232);
+}
+.shop p{
+    margin: 5px;
+}
+.shop a{
+    text-decoration: none;
+    border-style: solid;
+    border-color: black;
+    background-color: yellow;
+    margin: 5px;
+    border-radius: 5px;
+}
+#items h1{
+    margin: 10px;
+    margin-left: 30px;
+}
+
+
+
